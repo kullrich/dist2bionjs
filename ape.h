@@ -1,4 +1,4 @@
-/* Forked from https://github.com/emmanuelparadis/ape/src/ape.h
+/* Forked from https://github.com/emmanuelparadis/ape/src/ape.h */
 
 /* ape.h    2014-01-02 */
 
