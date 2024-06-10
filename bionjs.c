@@ -1,4 +1,4 @@
-/* Forked from https://github.com/emmanuelparadis/ape/src/bionjs.c
+/* Forked from https://github.com/emmanuelparadis/ape/src/bionjs.c */
 
 /* bionjs.c    2014-03-21 */
 
