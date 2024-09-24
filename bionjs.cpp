@@ -4,6 +4,8 @@
 
 /* Copyright 2011-2014 Andrei-Alin Popescu */
 
+/* Changes made by Kristian Ullrich 2024-06-10 */
+
 #include <iostream>
 #include <vector>
 #include <stdexcept>
